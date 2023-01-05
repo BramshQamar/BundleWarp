@@ -1,5 +1,5 @@
 # BundleWarp, streamline-based nonlinear registration of white matter tracts
-## Bramsh Qamar Chandio, Emanuele Olivetti, David Romero, Jaroslaw Harezlak, and Eleftherios Garyfallidis
+ Bramsh Qamar Chandio, Emanuele Olivetti, David Romero, Jaroslaw Harezlak, and Eleftherios Garyfallidis
 
 This repository contains BundleWarp code and tutorial on example data.
 
