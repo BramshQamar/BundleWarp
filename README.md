@@ -5,7 +5,7 @@ Code and tutorial for BundleWarp registration method.
 
 Prerequisites:
 
-DIPY
-FURY
-Scipy (latest version)
-pycpd
+1 - DIPY
+2 - FURY
+3 - Scipy (latest version)
+4 - pycpd
